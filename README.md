@@ -7,7 +7,12 @@ Project goal: Reproduce Figure 3: Evolution of pedigree, relatedness, and social
 11/22 UPDATE 
 - Combing through all of the different script files to determine which ones I will need and which ones I won't
 - Re-did my github repository to fix reoccurring problems 
-- 
+- Successfully ran the code scripts "set-up", "models" and "functions" (it took a long time for it to run)
+- I ran the code for Figure 3, but got "Error in graph.adjacency(output.relat.samples[[which.net]][[which.sample]]$relatedness.link,  : 
+  object 'output.relat.samples' not found". So I went back a ran the piece of code that had that line and was able to get it to produce a figure BUT I can't see the figure. It won't let me see it in R, and when I try to open it on my desktop it says that the file cannot be open because it may be damaged or use a file format that preview doesn't recognize 
+  
+  TO DO NEXT
+  - Figure out how to get the code to successfully produce the figure 
 
 
 
