@@ -4,6 +4,9 @@
 
 Project goal: Reproduce Figure 3: Evolution of pedigree, relatedness, and social relationships in the reproductive model. 
 
+12/4 UPDATE
+-Successfully produced figure 3, working on progress report 
+
 11/22 UPDATE 
 - Combing through all of the different script files to determine which ones I will need and which ones I won't
 - Re-did my github repository to fix reoccurring problems 
